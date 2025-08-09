@@ -1,4 +1,7 @@
 # Computer-Vision
+
+In 2018, I was writing these computer vision scripts for edge computing on Raspberry Pi.
+
 OpenCV, Python
  
 hsv_value_select.py  
